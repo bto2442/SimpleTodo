@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only challenge that really occured for me was some issues involving Null Pointers, where I accidently referenced the wrong objects when trying to grab information.
 
 ## License
 
